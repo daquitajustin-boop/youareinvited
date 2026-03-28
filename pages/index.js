@@ -68,7 +68,7 @@ export default function Home() {
         const templateParams = {
           guest_name:     name,
           guest_email:    email,
-          your_gmail:     daquitsjustin@gmail.com,    // CC to your own Gmail
+          your_gmail:     YOUR_GMAil,    // CC to your own Gmail
           event_name:     EVENT_BABY_NAME,
           event_day:      EVENT_DAY,
           event_date:     EVENT_DATE,
